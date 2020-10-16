@@ -1,2 +1,1 @@
-# coursera-submission
-###Basics of Front End learnt using knowledge regarding HTML,CSS and JAVASCRIPT.
+#Basics of Front End learnt using knowledge regarding HTML,CSS and JAVASCRIPT to create a Restaurant Website
